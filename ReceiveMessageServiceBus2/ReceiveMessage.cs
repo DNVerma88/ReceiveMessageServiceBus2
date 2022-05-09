@@ -9,7 +9,7 @@ namespace ReceiveMessageServiceBus2
 {
     public class ReceiveMessage
     {
-        static string connectionString = "Endpoint=sb://notificationservice0.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=b4ojYUDXIBKvtL6s1IN4JsNHUvG/KGVzIv33ta0nBHg=";
+        static string connectionString = "*****";
 
         static string topicName = "notification0";
 
